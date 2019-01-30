@@ -17,10 +17,10 @@ modification, are permitted provided that the following conditions are met:
   contributors may be used to endorse or promote products derived from
   this software without specific prior written permission.
   
-* The source code or assets are not being used for any sort of sale without 
-  the explicit written consent of the copyright holder. If the copyright holder
-  is deceased or does not possess the ability (due to a vegetative state or mental 
-  illness or similar condition) then explicit consent is not required.
+* The source code or assets are not to be sold or in any product that will be sold
+  without the explicit written consent of the copyright holder. If the copyright 
+  holder is deceased or does not possess the ability (due to a vegetative state 
+  or mental illness or similar condition) then explicit consent is not required.
   
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
